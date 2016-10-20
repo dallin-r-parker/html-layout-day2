@@ -1,0 +1,19 @@
+
+.main-container {
+    background: #404040;
+    width:100%;
+    height: 20vh;
+    position: relative;
+}
+
+.header-container {
+    background: yellow;
+    width:10vh;
+    height: 10vh;
+    position: absolute;
+    margin:15px;
+    border-radius: 15px;
+    float: left;
+    padding:15px;
+}
+
